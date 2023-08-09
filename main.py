@@ -59,6 +59,7 @@ uploaded_file = st.sidebar.file_uploader("Choose an image", type=["jpg", "png", 
 if uploaded_file is not None:
     if save_uploaded_file(uploaded_file):
         # Display the uploaded image
+        print("File saved successfully")
         display_image = Image.open(uploaded_file)
         st.image(display_image, caption="Uploaded Image", use_column_width=True)
         

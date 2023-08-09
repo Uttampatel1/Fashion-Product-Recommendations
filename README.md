@@ -10,7 +10,7 @@ Follow these steps to set up and run the application:
 **dataset link** : [https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
 
 1. **Image Folder**: Start by adding all the clothing item images you want the recommendation system to consider. You can place these images in the `Image` folder within the project directory.
-2. Create a **models folder** in the root directory.
+2. Create a **models folder** and **uploads** in the root directory.
 
 3. **Python App**: To run the app for creating image embeddings of the recommendation system, execute the following command in your terminal:
 
