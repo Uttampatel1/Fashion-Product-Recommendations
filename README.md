@@ -1,7 +1,7 @@
 
 # Fashion Cloth Recommendations 👗👔
 
-Welcome to the Fashion Cloth Recommendations project! This application helps you discover stylish outfit ideas based on your preferences. Whether you're looking for everyday wear, special occasions, or just want to experiment with your style, this app has got you covered. 💃🕺
+Welcome to the Fashion Cloth Recommendations project! This application helps you discover stylish outfit ideas based on your preferences and given image. Whether you're looking for everyday wear, special occasions, or just want to experiment with your style, this app has got you covered. 💃🕺
 
 ## Getting Started 🚀
 
@@ -44,4 +44,3 @@ streamlit run main.py
 
 This will open a web browser with the live application. You can interact with the user-friendly interface to select your preferences and see instant fashion recommendations. 💻👗
 
-## Demo app link : 
