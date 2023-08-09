@@ -28,7 +28,9 @@ For a quick demonstration of the recommendation system, you can run the `test.py
 python test.py
 ```
 
-This will showcase how the recommendation system works using pre-defined inputs.
+This will showcase how the recommendation system works using pre-![Uploading Screenshot from 2023-08-09 13-31-30.png…]()
+![Uploading Screenshot from 2023-08-09 13-24-48.png…]()
+defined inputs.
 
 ## Live App 🌐
 
@@ -46,3 +48,11 @@ streamlit run main.py
 
 This will open a web browser with the live application. You can interact with the user-friendly interface to select your preferences and see instant fashion recommendations. 💻👗
 
+![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4101c0f-ce97-4e91-a699-e8adbcb7f7c5/3.png)
+
+![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10c9de98-2974-4996-8cc0-52f08d750e10/2.png)
+
+![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b91dd715-84ad-4b1a-8aa1-bf56bedd1649/1.png)
+
+![Uploading Screenshot from 2023-08-09 17-07-15.png…]()
+![Uploading Screenshot from 2023-08-09 13-32-02.png…]()
