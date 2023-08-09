@@ -47,7 +47,12 @@ streamlit run main.py
 
 This will open a web browser with the live application. You can interact with the user-friendly interface to select your preferences and see instant fashion recommendations. 💻👗
 
+Some images:
+![Screenshot from 2023-08-09 13-30-51](https://github.com/Uttampatel1/Fashion-Product-Recommendations/assets/86312108/3a9f01d3-5475-45a9-8115-4bab87879a09)
+
+![Screenshot from 2023-08-09 13-31-30](https://github.com/Uttampatel1/Fashion-Product-Recommendations/assets/86312108/c9a837d1-15f1-4afa-9d79-ac0022d11970)
+
 ![Screenshot from 2023-08-09 13-32-02](https://github.com/Uttampatel1/Fashion-Product-Recommendations/assets/86312108/aede5046-9788-43f5-8f9c-2d03ddd491f7)
-![Uploading Screenshot from 2023-08-09 13-31-30.png…]()
-![Uploading Screenshot from 2023-08-09 13-30-51.png…]()
+
+
 
