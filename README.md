@@ -4,6 +4,7 @@
 
 Welcome to the Fashion Cloth Recommendations project! This application helps you discover stylish outfit ideas based on your preferences and given image. Whether you're looking for everyday wear, special occasions, or just want to experiment with your style, this app has got you covered. 💃🕺
 
+
 ## Getting Started 🚀
 
 Follow these steps to set up and run the application:
@@ -47,7 +48,12 @@ streamlit run main.py
 
 This will open a web browser with the live application. You can interact with the user-friendly interface to select your preferences and see instant fashion recommendations. 💻👗
 
-Some images:
+## Notebook Demo 
+
+![djgdfgkdfg](https://github.com/user-attachments/assets/9720982a-ea55-473d-a0fb-beb73654f220)
+
+
+## App UI images:
 ![Screenshot from 2023-08-09 13-30-51](https://github.com/Uttampatel1/Fashion-Product-Recommendations/assets/86312108/3a9f01d3-5475-45a9-8115-4bab87879a09)
 
 ![Screenshot from 2023-08-09 13-31-30](https://github.com/Uttampatel1/Fashion-Product-Recommendations/assets/86312108/c9a837d1-15f1-4afa-9d79-ac0022d11970)
